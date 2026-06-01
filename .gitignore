@@ -6,3 +6,4 @@ dist/
 *.log
 *.class
 .env
+s.sql
