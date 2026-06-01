@@ -28,7 +28,7 @@ User clicks Save to History
 Backend stores only BCrypt hash and metadata
 History panel refreshes
 ```
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/50d22686-1c03-44c6-9fb1-5565a78bdd69" />
+<img width="1366" height="676" alt="image" src="https://github.com/user-attachments/assets/8d9de376-abe8-49d6-8a24-b2125ebc8885" />
 
 
 ## Backend File Responsibilities
